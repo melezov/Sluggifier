@@ -38,5 +38,4 @@ class SMSSpec extends FeatureSpec with GivenWhenThen with MustMatchers{
       out must equal (res)
     }
   }
-
 }
